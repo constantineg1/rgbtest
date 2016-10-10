@@ -1,1 +1,1 @@
-# rgbtest
+# rgbtest - carthage packaging example
